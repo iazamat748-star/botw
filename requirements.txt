@@ -3,4 +3,6 @@ google-generativeai
 Pillow
 requests
 flask
+gunicorn
+uvicorn
 urllib3
