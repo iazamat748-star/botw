@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+google-generativeai
+Pillow
+requests
+flask
+urllib3
