@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+google-generativeai
+Pillow
+requests
+fastapi
+uvicorn
+gunicorn
+python-multipart
